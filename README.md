@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Conuter App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Simple Counter App [Live Deployment](https://react-redux-counter-1.herokuapp.com/).
 
 ## Available Scripts
 
